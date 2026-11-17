@@ -8,7 +8,6 @@ I work on making simulations trustworthy: verifying finite element analysis
 (FEA) results against theory, understanding where contact models break down, and
 applying that to physics simulation for robot learning.
 
-**Portfolio:** [wqfang.github.io](https://wqfang.github.io)
 
 ### Selected work
 
